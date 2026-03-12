@@ -29,7 +29,7 @@ This design is an optimization of an existing case, with the **key highlight bei
 
 1.  **Prepare the Parts:** Ensure all 3D-printed parts are cleaned and any support material is removed.
 2.  **Install the Board:** Carefully insert the development board into the slots of the bottom case, making sure the USB port aligns with the opening.
-3.  **Close the Case:** Align the top cover with the bottom part and press gently until the snaps click into place. **Tip:** For a more secure fit, you can apply a small amount of clear epoxy (AB glue) to the snap-fit joints.
+3.  **Close the Case:** Align the top cover with the bottom part and press gently until the snaps click into place.
 4.  **Attach Accessories:** Thread your lanyard or keychain ring through the designated hole on the case.
 
 ## Original Design Attribution
