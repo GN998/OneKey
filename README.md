@@ -4,7 +4,7 @@
 
 This project provides an improved 3D-printed case for the RP2350-One and RP2040-One development boards.
 
-This design is an optimization of an existing case, with the **key highlight being its improved lanyard hole and keychain loop**. This significantly enhances the device's portability and flexibility for everyday use, allowing you to carry your development board more securely and conveniently.
+An iteration of the current enclosure, this version highlights a refined lanyard hole and buckle design. These enhancements boost portability for daily use, ensuring your development board is both secure and easy to transport.
 
 ## Core Features
 
